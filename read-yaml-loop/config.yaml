@@ -1,0 +1,10 @@
+project:
+  id: my-project-id
+  region: europe-west4
+buckets:
+  - name: mybucket-eu-789
+    location: EU
+    force_destroy: true
+  - name: mybucket-us-456
+    location: US
+    force_destroy: false

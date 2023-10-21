@@ -1,0 +1,7 @@
+bucket:
+  name: mybucket-eu-789
+  location: EU
+  force_destroy: true
+  lifecycle_rules:
+    Delete: 3
+    AbortIncompleteMultipartUpload: 1

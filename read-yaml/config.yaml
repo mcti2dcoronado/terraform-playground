@@ -1,0 +1,7 @@
+project:
+  id: my-project-id
+  region: northamerica-northeast1
+bucket:
+  name: mybucket514
+  location: CA
+  force_destroy: true

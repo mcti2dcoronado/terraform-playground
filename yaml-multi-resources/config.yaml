@@ -1,0 +1,7 @@
+bucket:
+  name: mybucket-eu-789
+  location: EU
+  force_destroy: true
+  admins:
+    - "group:storage-admins@company.com"
+    - "user:john-break-glass@company.com"
